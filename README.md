@@ -11,9 +11,15 @@
 > - Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.  
 > - Support for V2.8 Configs will still be available until the end of Version 3.0  
 > - By Version 3.1, we'll fully transition to the [V3.x] Configs  
-> Thank you for your support :)  
+> Thank you for your support :)
+
+# Pinned Note:
+## [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
+## [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme) 
 
 # Recent Changes:  
+## January 3, 2025
+> Updated [V3.x] High-End Config
 ## December 30, 2025  
 > Updated [V3.x] Configs  
 ## December 27, 2025
