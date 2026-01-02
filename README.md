@@ -18,7 +18,7 @@
 ## [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme) 
 
 # Recent Changes:  
-## January 3, 2025
+## January 3, 2026
 > Updated [V3.x] High-End Config
 ## December 30, 2025  
 > Updated [V3.x] Configs  
