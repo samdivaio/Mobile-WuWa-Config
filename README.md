@@ -1,8 +1,7 @@
 
 <h1 align="center">📢 Announcements 📢</h1>
 
-# Notice: 🎄 Happy New Year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Support Me](https://img.shields.io/badge/Click%20Me-SUPPORT%20ME(Fully%20Optional)-FF3366?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arglaxaqwv)
-
+# Notice: 🎄 Happy New Year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.buymeacoffee.com/arglaxaqwv" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-violet.png" alt="Optional Support Me" style="height: 60px !important; width: 217px !important;"></a>  
 
 > **Support Notice** : Donations are 100% optional and *not required* tho will help support my future pulls or skins xD (e.g. Lunite Pass) in **Wuthering Waves**.
 ---
