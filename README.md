@@ -2,9 +2,12 @@
 <h1 align="center">📢 Announcements 📢</h1>
 
 # Notice: 🎄 Happy New Year &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.buymeacoffee.com/arglaxaqwv" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-violet.png" alt="Optional Support Me" style="height: 60px !important; width: 217px !important;"></a>  
-
-> **Support Notice** : Donations are 100% optional and *not required* tho will help support my future pulls or skins xD (e.g. Lunite Pass) in **Wuthering Waves**.
+> **Support Notice** : Donations are 100% optional and *not required*
 ---
+# Pinned Note:
+## [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
+## [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme) 
+
 ## Important Note: Both V2.8 and V3.x configs ARE working for the current version  
 ## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
 > - Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.  
@@ -12,25 +15,22 @@
 > - By Version 3.1, we'll fully transition to the [V3.x] Configs  
 > Thank you for your support :)
 
-# Pinned Note:
-## [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
-## [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme) 
-
 # Recent Changes:  
 ## January 3, 2026
-> Updated [V3.x] High-End Config
+> Updated [V3.x] High-End Config  
+> [V3.x] Configs will be updated by this weekend, along with V2.8 Configs  
 ## December 30, 2025  
 > Updated [V3.x] Configs  
 ## December 27, 2025
 > Updated Config Selector Guides for [V2.8] and [V.3x]  
-> [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
-> [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)  
+> [V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
+> [V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)
+>   
 > # Notes:  
 > ## ALL [V2.8] and [V3.x] Configs are working and functional as of December 27, 2025.  
 > [V2.8] Configs will retain their graphic definition.  
 > [V3.x] High-End Config is temporarily optimized for performance to compensate for the current problems in the game's mobile optimization.  
 > More proper and better optimized configs will be released next week.  
-
 
 # December 25, 2025
 > Updated README.md of [V2.8] Config Folder  
@@ -39,8 +39,6 @@
 Notes:
 > 🛠️ Users are encouraged to use configs in the *Old Configs* folder if the latest ones are incompatible with their devices.  
 > 📅 Release target for updating website: **Sometime in 2026**  (I'm replanning this whole thing, hopefully I get the time) 
-> 🎮 It already contains Vulkan and non-Vulkan(OpenGL) settings  
-> You need to have at least Mediatek Dimensity 8200 or Snapdragon 8s Gen 2 to be able to use Mobile Ray-Tracing Configs
 
 > A new [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/renjxYBEZM) server is now available (If there are people with a lot of free time who can help out with server management, just dm me)
 
