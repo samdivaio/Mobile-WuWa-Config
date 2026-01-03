@@ -17,7 +17,8 @@
 
 # Recent Changes:  
 ## January 3, 2026
-> Updated [V3.x] High-End Config  
+> Updated [V3.x] High-End Config
+> Updated Stable Config  
 > [V3.x] Configs will be updated by this weekend, along with V2.8 Configs  
 ## December 30, 2025  
 > Updated [V3.x] Configs  
