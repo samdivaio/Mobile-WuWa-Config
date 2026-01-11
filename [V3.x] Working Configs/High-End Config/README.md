@@ -8,7 +8,7 @@ Optimized high-end configuration for **Wuthering Waves v3.x**, focused on visual
 
 This repository includes **3 configuration files**:
 
-- **2 DeviceProfiles**
+- **2 DeviceProfiles** (Includes Mid-end DeviceProfiles)  
   - MediaTek
   - Snapdragon
 - **1 Engine.ini**
