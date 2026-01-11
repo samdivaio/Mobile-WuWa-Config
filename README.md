@@ -1,7 +1,7 @@
 
 <h1 align="center">📢 Announcements 📢</h1>
 
-## [Config Selector Guide for V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme) || [Config Selector Guide for V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme) 
+## Config Selector Guide for ( [V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme) || [ V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme) )
 > Important Note: Both V2.8 and V3.x configs ARE working for the current version  
 ## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
 > - Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.  
