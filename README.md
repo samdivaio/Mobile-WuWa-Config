@@ -9,7 +9,9 @@
 > - By Version 3.1, we'll fully transition to the [V3.x] Configs  
 > Thank you for your support :)
 
-# Recent Changes: January 11, 2026  
+# Recent Changes: January 19, 2026
+> - Expanded Devices list for Stable and Potato Configs. (OPTIONAL UPDATE)
+## January 11, 2026  
 > - Updated [V3.x] DeviceProfiles.ini  
 > - Added device profiles for mid-end devices and potato config
 > - Mostly minor and optional updates.  
