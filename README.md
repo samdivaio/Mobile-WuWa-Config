@@ -1,5 +1,10 @@
 
-<h1 align="center">📢 Announcements 📢</h1>
+<h1 align="center">📢 Announcements 📢</h1>  
+
+## January 31, 2026  
+1. Given the news of pipeline changes for V3.1, I will be updating the repos *AFTER* the live update of Wuthering Waves for V3.1. You can expect to check back here around February 7, 2026 (could be earlier).  
+2. V2.8 Configs will be ported to V3.x folder (They will also be updated don't worry)  
+3. Depending on the possible changes for the new version, I would probably start releasing the configs in a zipped release package (only after at least a week of tested use to ensure favorable experience)  
 
 ## Config Selector Guide for ( [V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme) || [ V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme) )
 > Important Note: Both V2.8 and V3.x configs ARE working for the current version  
