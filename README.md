@@ -1,31 +1,19 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
-## January 31, 2026  
-1. Given the news of pipeline changes for V3.1, I will be updating the repos *AFTER* the live update of Wuthering Waves for V3.1. You can expect to check back here around February 7, 2026 (could be earlier).  
-2. V2.8 Configs will be ported to V3.x folder (They will also be updated don't worry)  
-3. Depending on the possible changes for the new version, I would probably start releasing the configs in a zipped release package (only after at least a week of tested use to ensure favorable experience)  
-
-## Config Selector Guide for ( [V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme) || [ V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme) )
-> Important Note: Both V2.8 and V3.x configs ARE working for the current version  
-## V2.8 Configs will be moved to Old Configs when Version 3.1 Launches.  
-> - Configs for 3.0 will be streamlined into a more adaptive build, with one focused solely for stability and performance.  
-> - Support for V2.8 Configs will still be available until the end of Version 3.0  
-> - By Version 3.1, we'll fully transition to the [V3.x] Configs  
-> Thank you for your support :)
-
-# Recent Changes: January 19, 2026
-> - Expanded Devices list for Stable and Potato Configs. (OPTIONAL UPDATE)
-## January 11, 2026  
-> - Updated [V3.x] DeviceProfiles.ini  
-> - Added device profiles for mid-end devices and potato config
-> - Mostly minor and optional updates.  
-> - Restructured main README.md  
-> - Old changes moved to the bottom part of readme.  
-Notes:
-> 🛠️ Users are encouraged to use configs in the *Old Configs* folder if the latest ones are incompatible with their devices.  
-> 📅 Release target for updating website: **Sometime in 2026**  (I'm replanning this whole thing, hopefully I get the time) 
-
+## February 12, 2026  
+1. V2.8 Configs are temporarily placed in Old Configs until I find time updating them and integrating them into the V3.x Working Configs  
+2. Some headers may be incomplete(no impact on actual config but rather for transparency). These will be reviewed and completed on a later date, along with some possible code optimizations.  
+3. V3.1 DeviceProfiles will be constantly updated especially for those Devices whose DeviceProfiles' names have been changed.   
+```  
+;		==How to Obtain your DeviceProfile's Name==  
+; 	1. ...\Internal shared storage\Android\data\com.kurogame.wutheringwaves.global\files\UE4Game\Client\Client\Saved\Logs  
+;	2. Open Client.Log (usually around 1-15MB)  
+;	3. Search "Selected Device Profile"  
+;	4. It will show up something like "Selected Device Profile: Mali-G1x_Mid"  
+;	5. Create an issue(if GitHub) or tag me(@Arglax) in discord in #config-help   
+```
+## Config Selector Guide for [ V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)  
 <div align="center">
   <img src="https://img.shields.io/badge/Update-January17-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Target_Version-3.0-green?style=for-the-badge" />
