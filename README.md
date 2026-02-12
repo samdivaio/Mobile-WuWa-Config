@@ -11,11 +11,11 @@
 ;	2. Open Client.Log (usually around 1-15MB)  
 ;	3. Search "Selected Device Profile"  
 ;	4. It will show up something like "Selected Device Profile: Mali-G1x_Mid"  
-;	5. Create an issue(if GitHub) or tag me(@Arglax) in discord in #config-help   
+;	5. Create an issue(if GitHub) or tag me(@Arglax) with the devprof name in discord in #config-help   
 ```
 ## Config Selector Guide for [ V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)  
 <div align="center">
-  <img src="https://img.shields.io/badge/Update-January17-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Update-February13-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Target_Version-3.0-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Support-Vulkan_&_Non--Vulkan-orange?style=for-the-badge&logo=cog&logoColor=white" />
 </div>
