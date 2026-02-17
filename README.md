@@ -1,16 +1,10 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
-## February 15, 2026  
-1. Optional update for Stable Config (Still gathering info on other issues to fix like graphics washout or major disliked graphical difference between vanilla(no config) and configured graphics)  
-2. Updated AA Values to minimize jittering.  
-3. Partially recommended update for Potato Config (I need feedback from those who use this)  
+## February 18, 2026  
+1. Readjusted values in the DeviceProfiles and extended GPU Family list.
+2. Refactored Stable Config   
 For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
-
-## February 12, 2026  
-1. V2.8 Configs are temporarily placed in Old Configs until I find time updating them and integrating them into the V3.x Working Configs  
-2. Some headers may be incomplete(no impact on actual config but rather for transparency). These will be reviewed and completed on a later date, along with some possible code optimizations.  
-3. V3.1 DeviceProfiles will be constantly updated especially for those Devices whose DeviceProfiles' names have been changed.   
 ```  
 ;		==How to Obtain your DeviceProfile's Name==  
 ; 	1. ...\Internal shared storage\Android\data\com.kurogame.wutheringwaves.global\files\UE4Game\Client\Client\Saved\Logs  
@@ -21,7 +15,7 @@ For those who want to tweak their own configs, this is the main reference: [UE C
 ```
 ## Config Selector Guide for [ V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)  
 <div align="center">
-  <img src="https://img.shields.io/badge/Update-February13-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Updated-February18-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Target_Version-3.1-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Support-Vulkan_&_Non--Vulkan-orange?style=for-the-badge&logo=cog&logoColor=white" />
 </div>
@@ -155,6 +149,14 @@ Also giving credits to these entities as I have had config creation learnings th
 > Support is voluntary and does not affect config availability or updates. I will always do what I can to further optimize and improve our experiences.
 
 # ChangeLog  
+## February 15, 2026  
+1. Optional update for Stable Config (Still gathering info on other issues to fix like graphics washout or major disliked graphical difference between vanilla(no config) and configured graphics)  
+2. Updated AA Values to minimize jittering.  
+3. Partially recommended update for Potato Config (I need feedback from those who use this)   
+## February 12, 2026  
+1. V2.8 Configs are temporarily placed in Old Configs until I find time updating them and integrating them into the V3.x Working Configs  
+2. Some headers may be incomplete(no impact on actual config but rather for transparency). These will be reviewed and completed on a later date, along with some possible code optimizations.  
+3. V3.1 DeviceProfiles will be constantly updated especially for those Devices whose DeviceProfiles' names have been changed.   
 ## January 3, 2026
 > Updated [V3.x] High-End Config
 > Updated Stable Config  
