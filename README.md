@@ -3,11 +3,12 @@
 
 ## February 21, 2026  
 1. Configs will be sorted and updated accordingly starting next week. They will be classified under Visual, Stable, and Performance Configs.  
-2. Visual configs will provide enhanced visuals experience which is recommended for Main Story Quests or View/screenshots. This, of course, implies FPS drop.  
-3. Stable configs will provide a balanced visual-performance boost which is recommended for the general public.  
-4. Performance configs will provide strong performance boosts which may sacrifice visual fidelity to favor more FPS. It will also include the Potato Configs.  
+   - Visual configs will provide enhanced visuals experience which is recommended for Main Story Quests or View/screenshots. This, of course, implies FPS drop.  
+   - Stable configs will provide a balanced visual-performance boost which is recommended for the general public.  
+   - Performance configs will provide strong performance boosts which may sacrifice visual fidelity to favor more FPS. It will also include the Potato Configs.  
+2. Stable Configs have been released. You can easily download the .zip file and copy-paste your desired configs to your game's config folder.
 
-For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
+> For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
 ```  
 ;		==How to Obtain your DeviceProfile's Name==  
 ; 	1. ...\Internal shared storage\Android\data\com.kurogame.wutheringwaves.global\files\UE4Game\Client\Client\Saved\Logs  
