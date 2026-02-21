@@ -1,5 +1,7 @@
 # Mobile Config Selector Guide
 
+This readme will be updated in the near future due to the refactoring being done this week.
+
 This guide helps you choose the **correct config preset** based on your phone's **CPU/GPU tier**.
 Using the right preset avoids crashes, overheating, and severe frame drops.
 
