@@ -1,9 +1,12 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
-## February 18, 2026  
-1. Readjusted values in the DeviceProfiles and extended GPU Family list.
-2. Refactored Stable Config   
+## February 21, 2026  
+1. Configs will be sorted and updated accordingly starting next week. They will be classified under Visual, Stable, and Performance Configs.  
+2. Visual configs will provide enhanced visuals experience which is recommended for Main Story Quests or View/screenshots. This, of course, implies FPS drop.  
+3. Stable configs will provide a balanced visual-performance boost which is recommended for the general public.  
+4. Performance configs will provide strong performance boosts which may sacrifice visual fidelity to favor more FPS. It will also include the Potato Configs.  
+
 For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
 ```  
 ;		==How to Obtain your DeviceProfile's Name==  
@@ -149,6 +152,9 @@ Also giving credits to these entities as I have had config creation learnings th
 > Support is voluntary and does not affect config availability or updates. I will always do what I can to further optimize and improve our experiences.
 
 # ChangeLog  
+## February 18, 2026  
+1. Readjusted values in the DeviceProfiles and extended GPU Family list.
+2. Refactored Stable Config   
 ## February 15, 2026  
 1. Optional update for Stable Config (Still gathering info on other issues to fix like graphics washout or major disliked graphical difference between vanilla(no config) and configured graphics)  
 2. Updated AA Values to minimize jittering.  
