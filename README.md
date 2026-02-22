@@ -3,7 +3,7 @@
 
 ## February 23, 2026
 1. Further optimized Stable Configs and separated Mediatek&Snapdragon DeviceProfiles to avoid wrong frame generation commands.  
-2. Updated READme.md as well as added relevant video tutorials for newcomers and usual config users. See the [Table of Contents](toc)
+2. Updated READme.md as well as added relevant video tutorials for newcomers and usual config users. See the [Table of Contents](#toc)
 
 ## February 21, 2026  
 1. Configs will be sorted and updated accordingly starting next week. They will be classified under Visual, Stable, and Performance Configs.  
@@ -117,7 +117,7 @@ Join the **Discord** community for support, updates, and discussions:
 👉 https://discord.gg/renjxYBEZM
 
 <a id="vidtut"></a>
-Video Tutorials: 
+## Video Tutorials: 
 ## Configuration & Setup
 1. Config Tutorial Playlist
 https://youtube.com/playlist?list=PLn_0LF2KcH65tQ-RoqrgS25wqxV8ZTbfG
