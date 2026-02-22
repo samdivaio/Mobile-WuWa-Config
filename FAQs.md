@@ -4,6 +4,8 @@ Welcome to the **Ultimate FAQ Guide** for customizing your `Engine.ini` and `Dev
 
 Whether you want **ultra-sharp visuals**, **maximum performance**, or a **balanced blend**, this guide gives you the power to tweak the config to suit your device and taste.
 
+
+Please note that as of Feb. 22, 2026, I am refactoring this section to ensure accurate and updated codes to assist you. This will be completed by the end of this week.  (See you in March)
 ---
 
 ## 🎮 I want better graphics. How can I make the game look sharper?
@@ -13,8 +15,7 @@ Whether you want **ultra-sharp visuals**, **maximum performance**, or a **balanc
 * **Increase resolution scale**:
 
   ```
-  r.Mobile.TonemapperFilm=1
-  r.ScreenPercentage=100   ; Try 120 or 150 for super crisp visuals
+  Cvars=r.MobileContentScaleFactor=2.0
   ```
 
 * **Improve texture quality**:
@@ -37,10 +38,10 @@ Whether you want **ultra-sharp visuals**, **maximum performance**, or a **balanc
 
 ### ✅ Solution:
 
-* **Lower screen resolution**:
+* **Lower native render resolution**:
 
   ```
-  r.ScreenPercentage=75  ; Lower to 60–80 for smoother FPS
+  Cvars=r.MobileContentScaleFactor=1.0
   ```
 
 * **Reduce foliage and mesh density**:
@@ -48,6 +49,8 @@ Whether you want **ultra-sharp visuals**, **maximum performance**, or a **balanc
   ```
   grass.DensityScale=0.5
   foliage.DensityScale=0.5
+  ;or you can disable them completely
+  foliage.cullAll=1
   ```
 
 * **Disable expensive effects**:
@@ -116,6 +119,7 @@ Whether you want **ultra-sharp visuals**, **maximum performance**, or a **balanc
 * **Go full blast on everything** (WARNING: for flagship phones only):
 
   ```
+  r.MobileContentScaleFactor=2.0
   r.ScreenPercentage=150
   r.Mobile.TonemapperFilm=1
   r.TemporalAA.Upsampling=1
