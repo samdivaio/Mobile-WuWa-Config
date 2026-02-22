@@ -1,6 +1,10 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
+## February 23, 2026
+1. Further optimized Stable Configs and separated Mediatek&Snapdragon DeviceProfiles to avoid wrong frame generation commands.  
+2. Updated READme.md as well as added relevant video tutorials for newcomers and usual config users. See the [Table of Contents](toc)
+
 ## February 21, 2026  
 1. Configs will be sorted and updated accordingly starting next week. They will be classified under Visual, Stable, and Performance Configs.  
    - Visual configs will provide enhanced visuals experience which is recommended for Main Story Quests or View/screenshots. This, of course, implies FPS drop.  
@@ -9,15 +13,7 @@
 2. Stable Configs have been released. You can easily download the .zip file and copy-paste your desired configs to your game's config folder.
 
 > For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
-```  
-;		==How to Obtain your DeviceProfile's Name==  
-; 	1. ...\Internal shared storage\Android\data\com.kurogame.wutheringwaves.global\files\UE4Game\Client\Client\Saved\Logs  
-;	2. Open Client.Log (usually around 1-15MB)  
-;	3. Search "Selected Device Profile"  
-;	4. It will show up something like "Selected Device Profile: Mali-G1x_Mid"  
-;	5. Create an issue(if GitHub) or tag me(@Arglax) with the devprof name in discord in #config-help   
-```
-## Config Selector Guide for [ V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)  
+
 <div align="center">
   <img src="https://img.shields.io/badge/Updated-February18-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Target_Version-3.1-green?style=for-the-badge" />
@@ -32,8 +28,8 @@
 Hopefully, this guide will help you unlock your device’s full visual and gameplay potential.  
 
 ## Disclaimer
-These configurations are provided "as is", without warranty of any kind.
-Use at your own risk.
+These configurations are provided "as is", without warranty of any kind. While config users have been around for a long time, still :
+*Use at your own risk.*
 
 I am not responsible for crashes, performance issues, data loss,
 or any consequences arising from the use of these configs.
@@ -41,12 +37,13 @@ or any consequences arising from the use of these configs.
 Donations are voluntary and do not constitute a purchase or service.
 
 ---
-
+<a id="toc"></a>
 ## 📖 Table of Contents
 - [What’s Inside](#-whats-inside)
 - [How to Install](#how-to-install)
 - [File Location](#file-location)
 - [Need Help?](#-need-help)
+- [Video Tutorials](#vidtut)
 - [Credits](#-credits)
 - [Tags](#-tags-for-seo-indexing)
 
@@ -118,6 +115,27 @@ This PC\POCO X6 Pro 5G\Internal shared storage\Android\data\com.kurogame.wutheri
 
 Join the **Discord** community for support, updates, and discussions:  
 👉 https://discord.gg/renjxYBEZM
+
+<a id="vidtut"></a>
+Video Tutorials: 
+## Configuration & Setup
+1. Config Tutorial Playlist
+https://youtube.com/playlist?list=PLn_0LF2KcH65tQ-RoqrgS25wqxV8ZTbfG
+2. Applying Configs via PC
+https://youtu.be/bB6C8hp_dFQ
+3. Force Recompiling Shaders
+https://youtu.be/uxio8GI85PY
+
+## DeviceProfile & GPU Configuration
+1. Updating or Creating a DeviceProfile
+https://youtu.be/gtmyFKGyl1M
+2. Creating a Custom DeviceProfile and Bypassing Forbidden CVars
+https://youtu.be/RnHye7emks8
+3. Sample: Applying a Custom DeviceProfile
+https://youtube.com/shorts/49OGYJ3ERWs
+4. Finding Your DeviceProfile / GPU Family Name (Client.log on Mobile using SAF + ZArchiver)
+https://youtube.com/shorts/ygf6GUBkx18
+> #1 and #4 will help you update the DeviceProfile on your own, without waiting for a config creator's update on their DeviceProfile list 
 
 ---
 
