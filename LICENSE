@@ -1,6 +1,6 @@
 MIT License (Modified for Unreal Engine Configuration Files)
 
-Copyright (c) 2025 Arglax
+Copyright (c) 2026 Arglax
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this configuration and associated documentation files (the "Config Files"),
@@ -13,7 +13,7 @@ subject to the following conditions:
    you must insert the following comment at the very top of the file:
 
    ; Last modified by [YourName] on [Date]
-   ; Config source = https://github.com/Arglax/WuWa-Config
+   ; Config source = https://github.com/Arglax/Mobile-WuWa-Config
 
 2. Warranty Disclaimer
    THE CONFIGURATION FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
