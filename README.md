@@ -1,6 +1,9 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
+## February 24, 2026
+1. Performance Configs -> Config_1 has been released. You can send your feedback in the discord.  
+
 ## February 23, 2026
 1. Further optimized Stable Configs and separated Mediatek&Snapdragon DeviceProfiles to avoid wrong frame generation commands.  
 2. Updated READme.md as well as added relevant video tutorials for newcomers and usual config users. See the [Table of Contents](#toc)
