@@ -1,24 +1,15 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
+
 ## February 24, 2026
-1. Performance Configs -> Config_1 has been released. You can send your feedback in the discord.  
 
-## February 23, 2026
-1. Further optimized Stable Configs and separated Mediatek&Snapdragon DeviceProfiles to avoid wrong frame generation commands.  
-2. Updated READme.md as well as added relevant video tutorials for newcomers and usual config users. See the [Table of Contents](#toc)
-
-## February 21, 2026  
-1. Configs will be sorted and updated accordingly starting next week. They will be classified under Visual, Stable, and Performance Configs.  
-   - Visual configs will provide enhanced visuals experience which is recommended for Main Story Quests or View/screenshots. This, of course, implies FPS drop.  
-   - Stable configs will provide a balanced visual-performance boost which is recommended for the general public.  
-   - Performance configs will provide strong performance boosts which may sacrifice visual fidelity to favor more FPS. It will also include the Potato Configs.  
-2. Stable Configs have been released. You can easily download the .zip file and copy-paste your desired configs to your game's config folder.
+1. Performance Configs: Config_1 and Config_2 have been released. You can send your feedback in Discord.  
 
 > For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Updated-February18-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Updated-February24-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Target_Version-3.1-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Support-Vulkan_&_Non--Vulkan-orange?style=for-the-badge&logo=cog&logoColor=white" />
 </div>
@@ -31,13 +22,12 @@
 Hopefully, this guide will help you unlock your device’s full visual and gameplay potential.  
 
 ## Disclaimer
-These configurations are provided "as is", without warranty of any kind. While config users have been around for a long time, still :
-*Use at your own risk.*
+>These configurations are provided "as is", without warranty of any kind. While config users have been around for a long time, still :  
+> *Use at your own risk.*  
+>Support may be offered for the original deployed configs. Any assistance provided is advisory only.
+>Any remodification, tuning, or alteration voids author responsibility. I am not liable for crashes, performance issues, data loss, or any other consequences resulting from modified configurations.
 
-I am not responsible for crashes, performance issues, data loss,
-or any consequences arising from the use of these configs.
-
-Donations are voluntary and do not constitute a purchase or service.
+>Donations are voluntary and do not constitute a purchase, service, or entitlement to support.
 
 ---
 <a id="toc"></a>
@@ -171,20 +161,30 @@ Also giving credits to these entities as I have had config creation learnings th
 
 <a href="https://www.buymeacoffee.com/arglaxaqwv" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-violet.png" alt="Optional Support Me" style="height: 60px !important; width: 217px !important;"></a>  
 
-> Support is voluntary and does not affect config availability or updates. I will always do what I can to further optimize and improve our experiences.
+> Again, support is voluntary and does not affect config availability or updates. I will always do what I can to further optimize and improve our experiences.
 
 # ChangeLog  
+## February 23, 2026
+> Further optimized Stable Configs and separated Mediatek&Snapdragon DeviceProfiles to avoid wrong frame generation commands.  
+> Updated READme.md as well as added relevant video tutorials for newcomers and usual config users. See the [Table of Contents](#toc)
+
+## February 21, 2026  
+> Configs will be sorted and updated accordingly starting next week. They will be classified under Visual, Stable, and Performance Configs.  
+   >- Visual configs will provide enhanced visuals experience which is recommended for Main Story Quests or View/screenshots. This, of course, implies FPS drop.  
+   >- Stable configs will provide a balanced visual-performance boost which is recommended for the general public.  
+   >- Performance configs will provide strong performance boosts which may sacrifice visual fidelity to favor more FPS. It will also include the Potato Configs.  
+> Stable Configs have been released. You can easily download the .zip file and copy-paste your desired configs to your game's config folder.
 ## February 18, 2026  
-1. Readjusted values in the DeviceProfiles and extended GPU Family list.
-2. Refactored Stable Config   
+> Readjusted values in the DeviceProfiles and extended GPU Family list.
+> Refactored Stable Config   
 ## February 15, 2026  
-1. Optional update for Stable Config (Still gathering info on other issues to fix like graphics washout or major disliked graphical difference between vanilla(no config) and configured graphics)  
-2. Updated AA Values to minimize jittering.  
-3. Partially recommended update for Potato Config (I need feedback from those who use this)   
+> Optional update for Stable Config (Still gathering info on other issues to fix like graphics washout or major disliked graphical difference between vanilla(no config) and configured graphics)  
+> Updated AA Values to minimize jittering.  
+> Partially recommended update for Potato Config (I need feedback from those who use this)   
 ## February 12, 2026  
-1. V2.8 Configs are temporarily placed in Old Configs until I find time updating them and integrating them into the V3.x Working Configs  
-2. Some headers may be incomplete(no impact on actual config but rather for transparency). These will be reviewed and completed on a later date, along with some possible code optimizations.  
-3. V3.1 DeviceProfiles will be constantly updated especially for those Devices whose DeviceProfiles' names have been changed.   
+> V2.8 Configs are temporarily placed in Old Configs until I find time updating them and integrating them into the V3.x Working Configs  
+> Some headers may be incomplete(no impact on actual config but rather for transparency). These will be reviewed and completed on a later date, along with some possible code optimizations.  
+> V3.1 DeviceProfiles will be constantly updated especially for those Devices whose DeviceProfiles' names have been changed.   
 ## January 3, 2026
 > Updated [V3.x] High-End Config
 > Updated Stable Config  
