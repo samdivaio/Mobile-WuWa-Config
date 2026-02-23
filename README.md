@@ -6,6 +6,8 @@
 
 1. Performance Configs: Config_1 and Config_2 have been released. You can send your feedback in Discord.  
 
+> If my configs don't work for you, don't worry. There are a lot of other people and groups who create mobile configs for WuWa now. You can try until you find the best one for you. ***Or better yet***, tweak your own custom config.  
+
 > For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
 
 <div align="center">
