@@ -144,13 +144,13 @@ https://youtube.com/shorts/ygf6GUBkx18
 Maintained by **Arglax**  
 Optimized for **Mid-end/Flagship Android devices with Vulkan support**
 
-Also giving credits to these entities as I have had config creation learnings through them indirectly and some directly:  
+Also giving credits to these entities as I have had config creation learnings through them indirectly and some directly. Also including the meticulous testers and feedback givers in Discord: 
 1. Kuya Thirdy 
 2. Brandy (AlteriaX)  
 3. em00se  
 4. Eggsee  
 5. RGCloud  
-
+6. Will.Of.D
 
 ---
 
