@@ -1,10 +1,10 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
-
-## February 24, 2026
-
-1. Performance Configs: Config_1 and Config_2 have been released. You can send your feedback in Discord.  
+## February 27, 2026  
+1. Stable Configs have been updated. This is a **recommended update.**  
+## February 24, 2026  
+1. Performance Configs: Config_1 and Config_2 have been released. You can send your feedback in Discord.    
 
 > If my configs don't work for you, don't worry. There are a lot of other people and groups who create mobile configs for WuWa now. You can try until you find the best one for you. ***Or better yet***, tweak your own custom config.  
 
