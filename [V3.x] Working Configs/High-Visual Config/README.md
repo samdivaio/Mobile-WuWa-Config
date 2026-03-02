@@ -1,6 +1,4 @@
-# High-End Config for Wuthering Waves (v3.x)
-
-Optimized high-end configuration for **Wuthering Waves v3.x**, focused on visual quality while maintaining stability and balance.
+# High-End Config for Wuthering Waves (v3.1)
 
 ---
 
@@ -13,15 +11,6 @@ This repository includes **3 configuration files**:
   - Snapdragon
 - **1 Engine.ini**
   - Shared across all supported devices
-
----
-
-## Design Goals
-
-- High visual fidelity  
-- Performance-balanced settings  
-- Majority of values set near maximum where safe  
-- Selective limits applied to prevent instability  
 
 ---
 
@@ -43,7 +32,10 @@ If you experience lag or frame drops, adjust the following value:
 r.MobileContentScaleFactor=1.0
 ```
 
-Lower the value further if needed. There's a guide within the DeviceProfiles.ini for that
+In case of weird black/white flickering: switch from 0 to 1 or 1 to 0 depending what works for your device  
+```
+r.HZBOcclusion=1
+```
 
 ---
 
@@ -64,8 +56,6 @@ If you are unsure, please send your **`Client.log`** instead (Discord preferred)
 ## Notes
 
 - Shader recompilation after updates is normal  
-- Do not blindly mix configs from other game versions(well ofc unless you know what you're doing xD)  
-- Use with caution on non-flagship devices (So far no overheating issues but use a phone cooler if you can)  
 
 ---
 
