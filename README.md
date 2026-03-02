@@ -1,12 +1,13 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
-## February 27, 2026  
-1. Stable Configs have been updated. This is a **recommended update.**  
-## February 24, 2026  
-1. Performance Configs: Config_1 and Config_2 have been released. You can send your feedback in Discord.    
+## March 3, 2026  
+1. High Visual Config has been updated.  
+> In case of SSR problems, I'll post the preupdate, cleaned-up engine.ini in discord  
+2. Performance Configs will now be released as a .zip file  
+3. Old folders will be compiled and archived  
 
-> If my configs don't work for you, don't worry. There are a lot of other people and groups who create mobile configs for WuWa now. You can try until you find the best one for you. ***Or better yet***, tweak your own custom config.  
+> If my configs don't work for you, don't worry. There are a lot of other people and groups who create mobile configs for WuWa now. You can try until you find the best one for you. ***Or better yet***, tweak your own custom config :DDD.  
 
 > For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
 
@@ -145,7 +146,8 @@ Also giving credits to these entities as I have had config creation learnings th
 3. em00se  
 4. Eggsee  
 5. RGCloud  
-6. Will.Of.D
+6. Will.Of.D  
+7. toldyou_idk  
 
 ---
 
@@ -166,10 +168,14 @@ Also giving credits to these entities as I have had config creation learnings th
 > Again, support is voluntary and does not affect config availability or updates. I will always do what I can to further optimize and improve our experiences.
 
 # ChangeLog  
+
+## February 27, 2026  
+1. Stable Configs have been updated. This is a **recommended update.**  
+## February 24, 2026  
+1. Performance Configs: Config_1 and Config_2 have been released. You can send your feedback in Discord.    
 ## February 23, 2026
 > Further optimized Stable Configs and separated Mediatek&Snapdragon DeviceProfiles to avoid wrong frame generation commands.  
 > Updated READme.md as well as added relevant video tutorials for newcomers and usual config users. See the [Table of Contents](#toc)
-
 ## February 21, 2026  
 > Configs will be sorted and updated accordingly starting next week. They will be classified under Visual, Stable, and Performance Configs.  
    >- Visual configs will provide enhanced visuals experience which is recommended for Main Story Quests or View/screenshots. This, of course, implies FPS drop.  
