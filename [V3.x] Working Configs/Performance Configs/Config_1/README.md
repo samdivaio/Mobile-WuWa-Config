@@ -1,4 +1,5 @@
 # Performance Config / Config_1
+Last Updated: March 3, 2026  
 
 ## Table of Contents
 1. [Overview](#a)  
@@ -76,9 +77,10 @@ As per Zakro, a value of **150000** will remove the bars entirely (insert lauf e
 
 ---
 
-### 4. CVars=r.DetailMode=3
-
-- This is the highest detailmode, consider lowering to **1 or 2**
+### 4. CVars=r.DetailMode=2  
+- I lowered this to 2 so mid-end devices can handle this better
+- This is the mid-level detailmode, consider lowering to **1** if low-end  
+- If using flagship devices, feel free to raise it up to ***3***
 
 ---
 
