@@ -1,6 +1,11 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
+## March 8, 2026 (Note only)
+1. I'm working on some nice, high-visual and high-performance configs for mid-end devices, I will put these in the High-Visuals folder.
+  Also, I'm including an important note which *may* help solve if you encounter a freezing+crash issue:
+> Add ```Niagara.GPUDrawIndirectArgsBufferSlack=4096``` under [SystemSettings]  
+
 ## March 3, 2026  
 1. High Visual Config has been updated.  
 > In case of SSR problems, I'll post the preupdate, cleaned-up engine.ini in discord  
