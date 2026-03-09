@@ -1,23 +1,25 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
-## March 8, 2026 (Note only)
-1. I'm working on some nice, high-visual and high-performance configs for mid-end devices, I will put these in the High-Visuals folder.
-  Also, I'm including an important note which *may* help solve if you encounter a freezing+crash issue:
-> Add ```Niagara.GPUDrawIndirectArgsBufferSlack=4096``` under [SystemSettings]  
-
-## March 3, 2026  
-1. High Visual Config has been updated.  
-> In case of SSR problems, I'll post the preupdate, cleaned-up engine.ini in discord  
-2. Performance Configs will now be released as a .zip file  
-3. Old folders will be compiled and archived  
+## March 10, 2026  
+1. To fix crashes, remove this line ```fx.KuroUseGPUParticles=1```.
+   > (Not sure who's the og one who found out about this but I'm crediting @Sufana in Discord since it's where I saw it)  
+   > Band-aid: Add ```Niagara.GPUDrawIndirectArgsBufferSlack=4096``` under [SystemSettings]
+2. Experimental Config is released inside High-Visual Config Folder
+   > I would recommend having frame gen but mid-end devices should have a relatively great performance @scale factor 1.0
 
 > If my configs don't work for you, don't worry. There are a lot of other people and groups who create mobile configs for WuWa now. You can try until you find the best one for you. ***Or better yet***, tweak your own custom config :DDD.  
 
-> For those who want to tweak their own configs, this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
+> For those who want to tweak their own configs,  
+> this is the main reference: [UE Console Variable List](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-console-variables-reference)  
+> another reference: [UE4.26 CVars List](https://framedsc.com/GeneralGuides/ue4_commands.htm)  
 
+Lastly, for those who use AI in their configs, I would recommend using Claude  
+   > Also make sure your configs' cvars are "real" and "registered". Always check your Client.Log files! AI hallucination is real.
+
+    
 <div align="center">
-  <img src="https://img.shields.io/badge/Updated-February24-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Updated-MARCH_10-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Target_Version-3.1-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Support-Vulkan_&_Non--Vulkan-orange?style=for-the-badge&logo=cog&logoColor=white" />
 </div>
@@ -153,7 +155,7 @@ Also giving credits to these entities as I have had config creation learnings th
 5. RGCloud  
 6. Will.Of.D  
 7. toldyou_idk  
-
+8. KRG6187  
 ---
 
 ## 🔎 Tags (for SEO indexing)
@@ -170,44 +172,4 @@ Also giving credits to these entities as I have had config creation learnings th
 
 <a href="https://www.buymeacoffee.com/arglaxaqwv" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-violet.png" alt="Optional Support Me" style="height: 60px !important; width: 217px !important;"></a>  
 
-> Again, support is voluntary and does not affect config availability or updates. I will always do what I can to further optimize and improve our experiences.
-
-# ChangeLog  
-
-## February 27, 2026  
-1. Stable Configs have been updated. This is a **recommended update.**  
-## February 24, 2026  
-1. Performance Configs: Config_1 and Config_2 have been released. You can send your feedback in Discord.    
-## February 23, 2026
-> Further optimized Stable Configs and separated Mediatek&Snapdragon DeviceProfiles to avoid wrong frame generation commands.  
-> Updated READme.md as well as added relevant video tutorials for newcomers and usual config users. See the [Table of Contents](#toc)
-## February 21, 2026  
-> Configs will be sorted and updated accordingly starting next week. They will be classified under Visual, Stable, and Performance Configs.  
-   >- Visual configs will provide enhanced visuals experience which is recommended for Main Story Quests or View/screenshots. This, of course, implies FPS drop.  
-   >- Stable configs will provide a balanced visual-performance boost which is recommended for the general public.  
-   >- Performance configs will provide strong performance boosts which may sacrifice visual fidelity to favor more FPS. It will also include the Potato Configs.  
-> Stable Configs have been released. You can easily download the .zip file and copy-paste your desired configs to your game's config folder.
-## February 18, 2026  
-> Readjusted values in the DeviceProfiles and extended GPU Family list.
-> Refactored Stable Config   
-## February 15, 2026  
-> Optional update for Stable Config (Still gathering info on other issues to fix like graphics washout or major disliked graphical difference between vanilla(no config) and configured graphics)  
-> Updated AA Values to minimize jittering.  
-> Partially recommended update for Potato Config (I need feedback from those who use this)   
-## February 12, 2026  
-> V2.8 Configs are temporarily placed in Old Configs until I find time updating them and integrating them into the V3.x Working Configs  
-> Some headers may be incomplete(no impact on actual config but rather for transparency). These will be reviewed and completed on a later date, along with some possible code optimizations.  
-> V3.1 DeviceProfiles will be constantly updated especially for those Devices whose DeviceProfiles' names have been changed.   
-## January 3, 2026
-> Updated [V3.x] High-End Config
-> Updated Stable Config  
-> [V3.x] Configs will be updated by this weekend, along with V2.8 Configs  
-## December 30, 2025  
-> Updated [V3.x] Configs  
-## December 27, 2025
-> Updated Config Selector Guides for [V2.8] and [V.3x]  
-> [V2.8 Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV2.8%5D%20Working%20Configs#readme)  
-> [V3.x Configs](https://github.com/Arglax/Mobile-WuWa-Config/tree/main/%5BV3.x%5D%20Working%20Configs#readme)  
-## December 25, 2025
-> Updated README.md of [V2.8] Config Folder  
-> Added [V3.x] Config Folder
+> Again, support is voluntary and does not affect config availability or updates. I will always do what I can to further improve our experiences.
