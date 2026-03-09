@@ -4,14 +4,16 @@
 
 ## Contents
 
-This repository includes **3 configuration files**:
+This repository includes **4 configuration files**:
 
-- **2 DeviceProfiles** (Includes Mid-end DeviceProfiles)  
+- **3 DeviceProfiles** (Includes Mid-end DeviceProfiles)  
+  - Android (Generic)  
   - MediaTek
   - Snapdragon
 - **1 Engine.ini**
   - Shared across all supported devices
 
+- **Also included is 1 folder dedicated for an experimental config**
 ---
 
 ## Compatibility
