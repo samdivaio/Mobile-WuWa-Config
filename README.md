@@ -1,6 +1,11 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
+## March 16, 2026  
+> All configs will be updated for the next version (3.2) around a week after the update drops.  
+> -----> Config Update Priority (Stable->Performance->High-Visual)  
+> Recently, I've tried the game defaults using only the highest scalability values and it's pretty much okay now on my end, next high-end configs will make use of the default sg with a few optimizations on shadows, impostors and foliage.  
+
 ## March 10, 2026  
 1. To fix crashes, remove this line ```fx.KuroUseGPUParticles=1```.
    > (Not sure who's the og one who found out about this but I'm crediting @Sufana in Discord since it's where I saw it)  
