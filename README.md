@@ -1,6 +1,17 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
+## March 20, 2026
+1. Eid Mubarak!  
+2. I will update the configs this weekend (March 21 - March 22)  
+3. Possible Crash Fixes  
+> For frame generation users, you *MIGHT* need to set your frame gen command to 0, then enable it in-game. If a value of 1 works for you, no problem then.  
+```
+r.MFRC.Enable=0
+r.AFME.Enable=0
+```
+> For those who use sg.EffectsQuality, ensure that the value is ***LESS THAN OR EQUAL TO 2***.  Based on recent tests, a value of 3 or higher causes a crash (with a weird crashlog)
+
 ## March 16, 2026  
 > All configs will be updated for the next version (3.2) around a week after the update drops.  
 > -----> Config Update Priority (Stable->Performance->High-Visual)  
