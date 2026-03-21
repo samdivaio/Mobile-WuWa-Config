@@ -1,4 +1,4 @@
-I'll format this properly in the next update.  
+I'll format this properly in the following update.  
 
 Here's what you need to know related to the Z_Experimental Config:  
 1. Personally tested **ONLY** on Poco X6 Pro. Therefore create an issue or let me know through Discord if you encounter problems.  
@@ -11,13 +11,10 @@ Here's what you need to know related to the Z_Experimental Config:
     > Contrary to the value(1.5) in the file, I mostly test play using 1.3 or 1.35  
     > Default is 1.5, use 1.75 or 2.0 if you have a larger resolution/bigger screen(like a tablet or external monitor)  
 
-2. RHI-related/r.Vulkan.*  
-    > Most of the crashing problems root to renderer-related CVar. The values in both .ini files uses the game's default. If your game autocrashes, try removing **ALL** r.Vulkan lines ***EXCEPT*** ```r.Android.DisableVulkanSupport=0```
-
-3. r.FidelityFX.FSR3.QualityMode  
-    > Set to 1 in the config, if you need more performance, set higher (2,3 or 4).  
-    > Set to 0 for Maximum visual quality  
+2. r.KuroFI.Enable
+    > 0 is disable, 1 is enable  
+    > Extremely bad based on my test on Dimensity 8300, might produce better results for higher-end device or maybe low-end device  
+    > This is Kuro's frame generation
 
 
-
-^ Only these for now, see you on the next update and good luck on your Lingyang pulls!  
+^ Only these for now, see you on the next update and good luck on your Lingyang pulls!(Again lmao)  
