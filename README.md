@@ -1,28 +1,12 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
-## March 20, 2026
-1. Eid Mubarak!  
-2. I will update the configs this weekend (March 21 - March 22)  
-3. Possible Crash Fixes  
-> For frame generation users, you *MIGHT* need to set your frame gen command to 0, then enable it in-game. If a value of 1 works for you, no problem then.  
-```
-r.MFRC.Enable=0
-r.AFME.Enable=0
-```
-> For those who use sg.EffectsQuality, ensure that the value is ***LESS THAN OR EQUAL TO 2***.  Based on recent tests, a value of 3 or higher causes a crash (with a weird crashlog)
+## March 21, 2026  (Version 3.2 Update)
+1. Both DeviceProfiles.ini and Engine.ini are now monitored and we can no longer bypass the forbidden cvars like we used to, hence the game is also forcing its own cvars which were extremely helpful for us in the past like the selection of the material quality level as well as r.DetailMode=3.  
+2. sg.EffectsQuality is capped to a value of 2, or else you get an auto-crash in your game  
+3. Kuro introduced a new frame interpolation cvar ```r.KuroFI.Enable```, which might work well for higher-end mobile devices. Based on my testing with Dimensity8300, KuroFI creates a horrible graphical warp when moving. Use at your own preference.  
+4. A lot of cvars will be cleaned up in the future, if there are any concerns just submit a ticket or tag me in Discord.  
 
-## March 16, 2026  
-> All configs will be updated for the next version (3.2) around a week after the update drops.  
-> -----> Config Update Priority (Stable->Performance->High-Visual)  
-> Recently, I've tried the game defaults using only the highest scalability values and it's pretty much okay now on my end, next high-end configs will make use of the default sg with a few optimizations on shadows, impostors and foliage.  
-
-## March 10, 2026  
-1. To fix crashes, remove this line ```fx.KuroUseGPUParticles=1```.
-   > (Not sure who's the og one who found out about this but I'm crediting @Sufana in Discord since it's where I saw it)  
-   > Band-aid: Add ```Niagara.GPUDrawIndirectArgsBufferSlack=4096``` under [SystemSettings]
-2. Experimental Config is released inside High-Visual Config Folder
-   > I would recommend having frame gen but mid-end devices should have a relatively great performance @scale factor 1.0
 
 > If my configs don't work for you, don't worry. There are a lot of other people and groups who create mobile configs for WuWa now. You can try until you find the best one for you. ***Or better yet***, tweak your own custom config :DDD.  
 
@@ -35,8 +19,8 @@ Lastly, for those who use AI in their configs, I would recommend using Claude
 
     
 <div align="center">
-  <img src="https://img.shields.io/badge/Updated-MARCH_10-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎯_Target_Version-3.1-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Updated-MARCH_32-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯_Target_Version-3.2-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Support-Vulkan_&_Non--Vulkan-orange?style=for-the-badge&logo=cog&logoColor=white" />
 </div>
 <h1 align="center">🎮 WuWa-Config: Mobile Configuration for Wuthering Waves</h1>
