@@ -1,4 +1,9 @@
+# Override Announcement  
+> If you're having trouble with the frame generation of the High-Visual Config, please use the Experimental Config in the mean time.  
+
+
 # High-End Config for Wuthering Waves (v3.1)
+
 
 ---
 
