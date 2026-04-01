@@ -1,6 +1,13 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
+## April 1, 2026 (Small patch)  
+1. Added StaticMeshLODDistanceScale value set to 1.0 to all configs. This patches the floating grass in the game.  
+    > This is a UE-default value, but Kuro used 0.6. Information credits go to Eggsie.  
+  
+
+2. This patch note is not an April Fools shenanigan :P  
+
 ## March 24, 2026 (Notes)  
 1. Grass culling and lod adjusted accordingly to config specifications. High-end/High Visual can expect better grass loading and less visual pop-ins.  
 2. Scalefactors slightly adjusted on stable config, along with the viewport.  
