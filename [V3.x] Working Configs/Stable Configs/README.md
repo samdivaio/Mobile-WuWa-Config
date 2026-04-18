@@ -1,5 +1,7 @@
 ## Stable Configuration Overview
 
+# Come on guys at least take a minute to read READMEs >_<
+
 This stable configuration closely follows the game’s default settings to minimize bugs and crashes while still delivering stable visual quality.
 
 If you encounter any issues, crashes, or settings that do not work as expected, please **open an issue**. You are also welcome to join the **Discord** to help improve the config or report problems.  
@@ -9,7 +11,7 @@ If you encounter any issues, crashes, or settings that do not work as expected, 
 - This is your base render. Game default is 1.5 (1080p)  
 > 1.0 = 720p, great performance  
 > 1.5 = 1080p, default  
-> 2.0 = 1440p, crisp visuals, worse perf  
+> 2.0 = 1440p, super crisp visuals, worse perf  
 
 2. r.KuroFI.Enable  
 - This is Kuro's frame interpolation (frame gen)   
