@@ -1,27 +1,12 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
-## April 1, 2026 (Small patch)  
-1. Added StaticMeshLODDistanceScale value set to 1.0 to all configs. This patches the floating grass in the game.  
-    > This is a UE-default value, but Kuro used 0.6. Information credits go to Eggsie.  
-  
+## April 19, 2026 (Small, Optional Patch)  
+1. Added MAGT to Mediatek Devices  
+2. Adapted to KuroFI for StableConfigs  
+> Ver 3.3 looks pretty heavy given the new environmental interactions, goodluck to us  
 
-2. This patch note is not an April Fools shenanigan :P  
-
-## March 24, 2026 (Notes)  
-1. Grass culling and lod adjusted accordingly to config specifications. High-end/High Visual can expect better grass loading and less visual pop-ins.  
-2. Scalefactors slightly adjusted on stable config, along with the viewport.  
-3. Based on recent findings through testing, **KuroFI will NOT work** if you have **either AFME or MFRC** frame generation ON. To use KuroFI, make sure to comment any MFRC or AFME cvar. (Thanks to @toldyou_idk, and Eggsee with their team)  
-4. On a personal note, use AFME/MFRC if your device natively supports it and if Kuro has it on for you. Use KuroFI otherwise (again, this FI currently causes painful graphical warping and and stairs aliasing)  
-    > We're currently working on possible solutions to lessen or fix the aliasing caused by the FI.  
-> Final Note: For now, commenting the AFME/MFRC Cvars will be the at the prerogative of the end user, up until the aliasing artifact of KuroFI is fixed.  
-
-## March 22, 2026  (Version 3.2 Update)
-1. Both DeviceProfiles.ini and Engine.ini are now monitored and we can no longer bypass the forbidden cvars like we used to, hence the game is also forcing its own cvars which were extremely helpful for us in the past like the selection of the material quality level as well as r.DetailMode=3.  
-2. sg.EffectsQuality is capped to a value of 2, or else you get an auto-crash in your game  
-3. Kuro introduced a new frame interpolation cvar ```r.KuroFI.Enable```, which might work well for *higher-end mobile* devices. Based on my testing with Dimensity8300, KuroFI creates a horrible graphical warp when moving. Use at your own preference.  
-4. A lot of cvars will be cleaned up in the future, if there are any concerns just submit a ticket or tag me in Discord.  
-5. If you are using **STABLE CONFIG** , the DeviceProfiles.ini may cause blinking.  
+> Important Note: . If you are using **STABLE CONFIG** , the DeviceProfiles.ini may cause blinking.  
     > > To fix this, you may opt to do any of these steps:  
     > > > 1. Delete the DeviceProfiles.ini and just use the Engine.ini  
     > > - I have made the necessary adjustments should that be the case so you're not actually missing out the essential cvars  
@@ -40,7 +25,7 @@ Lastly, for those who use AI in their configs, I would recommend using Claude
 
     
 <div align="center">
-  <img src="https://img.shields.io/badge/Updated-MARCH_22-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Updated-APRIL_19-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/🎯_Target_Version-3.2-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Support-Vulkan_&_Non--Vulkan-orange?style=for-the-badge&logo=cog&logoColor=white" />
 </div>
@@ -176,7 +161,7 @@ Also giving credits to these entities as I have had config creation learnings th
 6. Will.Of.D  
 7. toldyou_idk  
 8. KRG6187 
-9. SuiX (yes touch some grass bro)   
+9. SuiX (congrats on touching grass!)   
 ---
 
 ## 🔎 Tags (for SEO indexing)
