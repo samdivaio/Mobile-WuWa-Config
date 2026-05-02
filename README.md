@@ -1,6 +1,11 @@
 
 <h1 align="center">📢 Announcements 📢</h1>  
 
+## May 2, 2026 (Pre-config update announcement)  
+ - I'll be working on the configs this week. For those who still don't know yet, the ```r.MobileContentScaleFactor``` and the gameviewport were recently included in the forbidden cvars list, which greatly affects the performance and graphics outlook of all configs in this repository.  
+ - Config Update Order: Stable-Performance-HighVisual
+ - Sui touche`d grasseoux  
+
 ## April 19, 2026 (Small, Optional Patch)  
 1. Added MAGT to Mediatek Devices  
 2. Adapted to KuroFI for StableConfigs  
@@ -161,7 +166,7 @@ Also giving credits to these entities as I have had config creation learnings th
 6. Will.Of.D  
 7. toldyou_idk  
 8. KRG6187 
-9. SuiX (congrats on touching grass!)   
+9. SuiX    
 ---
 
 ## 🔎 Tags (for SEO indexing)
